@@ -2,15 +2,15 @@
 <rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
   <channel>
     <title>פרי המטע</title>
-    <link>https://example.com</link>
+    <link>https://prihamatay.zappy5.app</link>
     <description>Product feed for פרי המטע</description>
-    <lastBuildDate>Mon, 06 Jul 2026 17:28:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 17:29:04 GMT</lastBuildDate>
     <item>
       <g:id>25094c03-a073-41ed-b4c6-6ad1ef05dfb1</g:id>
       <g:title>מלון גולד סוויט </g:title>
       <g:description>מלון מתקתק טעים</g:description>
-      <g:link>https://example.com/product/mlvn-gvld-svvyt-7l4tdn</g:link>
-      <g:image_link>https://example.com/assets/product-1783358694929-4vxz1.webp</g:image_link>
+      <g:link>https://prihamatay.zappy5.app/product/mlvn-gvld-svvyt-7l4tdn</g:link>
+      <g:image_link>https://prihamatay.zappy5.app/assets/product-1783358694929-4vxz1.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>20.00 ILS</g:price>
       <g:condition>new</g:condition>

@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://example.com
+https://prihamatay.zappy5.app
 גלו את הקטלוג הטרופי השופע שלנו עם פירות טריים ומחירים לכל פריט. תיהנו מחוויית קטיף מובחרת וטעמים טבעיים עד הבית. התחילו לבחור עכשיו!
 
 ### משלוחים
-https://example.com/delivery
+https://prihamatay.zappy5.app/delivery
 שירות משלוחים מהיר ואמין של פירות טרופיים טריים עד לפתח ביתכם. כל הזמנה נארזת באהבה מהמטע שלנו ישירות אליכם. בדקו זמני אספקה עכשיו!
 
 ### המטע שלנו
-https://example.com/our-orchard
+https://prihamatay.zappy5.app/our-orchard
 סיור וירטואלי במטע קהילתי שופע, בו אנו מגדלים פירות טריים באהבה. למדו על שיטות הגידול הטבעיות שלנו והכירו את הסיפור מאחורי כל ביס. בואו לבקר!
 
 ### צור קשר
-https://example.com/contact
+https://prihamatay.zappy5.app/contact
 צריכים עזרה בבחירת פירות או רוצים להזמין משלוח מיוחד? צרו קשר עם צוות המטע שלנו ונשמח להתאים לכם את התוצרת הטרייה ביותר. אנחנו כאן בשבילכם!
 
 ### Products
-https://example.com/products
+https://prihamatay.zappy5.app/products
 המוצרים שלנו - פרי המטע
 
 ### Product Detail
-https://example.com/product/:slug
+https://prihamatay.zappy5.app/product/:slug
 פרטי המוצר - פרי המטע
 
 ### Category
-https://example.com/category/:slug
+https://prihamatay.zappy5.app/category/:slug
 מוצרים - פרי המטע
 
 ### תודה - פרי המטע
-https://example.com/thank-you
+https://prihamatay.zappy5.app/thank-you
 פרי המטע - תודה - פרי המטע
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://prihamatay.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://prihamatay.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://prihamatay.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -59,11 +59,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 1**
 
 ### מלון גולד סוויט 
-https://example.com/product/mlvn-gvld-svvyt-7l4tdn
+https://prihamatay.zappy5.app/product/mlvn-gvld-svvyt-7l4tdn
 - Price: 20.00 ILS
 - Availability: In stock
 - Description: מלון מתקתק טעים
-- Image: https://example.com/assets/product-1783358694929-4vxz1.webp
+- Image: https://prihamatay.zappy5.app/assets/product-1783358694929-4vxz1.webp
 
 ---
 
@@ -84,8 +84,8 @@ Agriculture / Fresh Produce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://prihamatay.zappy5.app/sitemap.xml
+- Robots: https://prihamatay.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://prihamatay.zappy5.app/llms-full.txt
+- Products (JSON): https://prihamatay.zappy5.app/products.json
+- Products (Google Merchant RSS): https://prihamatay.zappy5.app/product-feed.xml
