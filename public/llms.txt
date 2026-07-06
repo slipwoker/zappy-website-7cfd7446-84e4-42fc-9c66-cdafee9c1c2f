@@ -1,0 +1,84 @@
+# פרי המטע — Generative Engine Optimization Map
+
+> A tropical-themed fruit catalog website designed for orchard residents (Mata'a community), showcasing a variety of fresh fruits with pricing per item and home delivery service. The site has a vibrant, lush tropical aesthetic that reflects the freshness and natural beauty of the produce, creating an inviting and colorful browsing experience.
+
+---
+
+## Pages
+
+### בית
+https://-7cfd7446.zappy5.app
+גלו את הקטלוג הטרופי השופע שלנו עם פירות טריים ומחירים לכל פריט. תיהנו מחוויית קטיף מובחרת וטעמים טבעיים עד הבית. התחילו לבחור עכשיו!
+
+### משלוחים
+https://-7cfd7446.zappy5.app/delivery
+שירות משלוחים מהיר ואמין של פירות טרופיים טריים עד לפתח ביתכם. כל הזמנה נארזת באהבה מהמטע שלנו ישירות אליכם. בדקו זמני אספקה עכשיו!
+
+### המטע שלנו
+https://-7cfd7446.zappy5.app/our-orchard
+סיור וירטואלי במטע קהילתי שופע, בו אנו מגדלים פירות טריים באהבה. למדו על שיטות הגידול הטבעיות שלנו והכירו את הסיפור מאחורי כל ביס. בואו לבקר!
+
+### צור קשר
+https://-7cfd7446.zappy5.app/contact
+צריכים עזרה בבחירת פירות או רוצים להזמין משלוח מיוחד? צרו קשר עם צוות המטע שלנו ונשמח להתאים לכם את התוצרת הטרייה ביותר. אנחנו כאן בשבילכם!
+
+### Products
+https://-7cfd7446.zappy5.app/products
+המוצרים שלנו - פרי המטע
+
+### Product Detail
+https://-7cfd7446.zappy5.app/product/:slug
+פרטי המוצר - פרי המטע
+
+### Category
+https://-7cfd7446.zappy5.app/category/:slug
+מוצרים - פרי המטע
+
+### תודה - פרי המטע
+https://-7cfd7446.zappy5.app/thank-you
+פרי המטע - תודה - פרי המטע
+
+## Legal & Policy
+
+### Privacy Policy
+https://-7cfd7446.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-7cfd7446.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-7cfd7446.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פרי המטע
+A tropical-themed fruit catalog website designed for orchard residents (Mata'a community), showcasing a variety of fresh fruits with pricing per item and home delivery service. The site has a vibrant, lush tropical aesthetic that reflects the freshness and natural beauty of the produce, creating an inviting and colorful browsing experience.
+
+## Target Audience
+- תושבי מטע
+- אוהבי פירות עירוניים
+- אנשים מודעי בריאות
+
+## Industry
+Agriculture / Fresh Produce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-7cfd7446.zappy5.app/sitemap.xml
+- Robots: https://-7cfd7446.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-7cfd7446.zappy5.app/llms-full.txt
+- Products (JSON): https://-7cfd7446.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-7cfd7446.zappy5.app/product-feed.xml
